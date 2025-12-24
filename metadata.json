@@ -1,0 +1,8 @@
+{
+  "name": "India Pincode Explorer Pro",
+  "description": "Premium AI-powered 6-digit postal search engine with neural locality insights and verified government infrastructure mapping.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
